@@ -1,0 +1,1841 @@
+[{
+	"name": "Afghanistan",
+	"capital": "Kabul",
+	"region": "Asia",
+	"population": 26023100,
+	"latlng": [33, 65],
+	"area": 652230,
+	"callingCodes": ["93"]
+}, {
+	"name": "Åland Islands",
+	"capital": "Mariehamn",
+	"region": "Europe",
+	"population": 28875,
+	"latlng": [60.116667, 19.9],
+	"area": 1580,
+	"callingCodes": ["358"]
+}, {
+	"name": "Albania",
+	"capital": "Tirana",
+	"region": "Europe",
+	"population": 2893005,
+	"latlng": [41, 20],
+	"area": 28748,
+	"callingCodes": ["355"]
+}, {
+	"name": "Algeria",
+	"capital": "Algiers",
+	"region": "Africa",
+	"population": 39500000,
+	"latlng": [28, 3],
+	"area": 2381741,
+	"callingCodes": ["213"]
+}, {
+	"name": "American Samoa",
+	"capital": "Pago Pago",
+	"region": "Oceania",
+	"population": 55519,
+	"latlng": [-14.33333333, -170],
+	"area": 199,
+	"callingCodes": ["1684"]
+}, {
+	"name": "Andorra",
+	"capital": "Andorra la Vella",
+	"region": "Europe",
+	"population": 76949,
+	"latlng": [42.5, 1.5],
+	"area": 468,
+	"callingCodes": ["376"]
+}, {
+	"name": "Angola",
+	"capital": "Luanda",
+	"region": "Africa",
+	"population": 24383301,
+	"latlng": [-12.5, 18.5],
+	"area": 1246700,
+	"callingCodes": ["244"]
+}, {
+	"name": "Anguilla",
+	"capital": "The Valley",
+	"region": "Americas",
+	"population": 13452,
+	"latlng": [18.25, -63.16666666],
+	"area": 91,
+	"callingCodes": ["1264"]
+}, {
+	"name": "Antigua and Barbuda",
+	"capital": "Saint John\"s",
+	"region": "Americas",
+	"population": 86295,
+	"latlng": [17.05, -61.8],
+	"area": 442,
+	"callingCodes": ["1268"]
+}, {
+	"name": "Argentina",
+	"capital": "Buenos Aires",
+	"region": "Americas",
+	"population": 43131966,
+	"latlng": [-34, -64],
+	"area": 2780400,
+	"callingCodes": ["54"]
+}, {
+	"name": "Armenia",
+	"capital": "Yerevan",
+	"region": "Asia",
+	"population": 3006800,
+	"latlng": [40, 45],
+	"area": 29743,
+	"callingCodes": ["374"]
+}, {
+	"name": "Aruba",
+	"capital": "Oranjestad",
+	"region": "Americas",
+	"population": 107394,
+	"latlng": [12.5, -69.96666666],
+	"area": 180,
+	"callingCodes": ["297"]
+}, {
+	"name": "Australia",
+	"capital": "Canberra",
+	"region": "Oceania",
+	"population": 23868800,
+	"latlng": [-27, 133],
+	"area": 7692024,
+	"callingCodes": ["61"]
+}, {
+	"name": "Austria",
+	"capital": "Vienna",
+	"region": "Europe",
+	"population": 8602112,
+	"latlng": [47.33333333, 13.33333333],
+	"area": 83871,
+	"callingCodes": ["43"]
+}, {
+	"name": "Azerbaijan",
+	"capital": "Baku",
+	"region": "Asia",
+	"population": 9636300,
+	"latlng": [40.5, 47.5],
+	"area": 86600,
+	"callingCodes": ["994"]
+}, {
+	"name": "The Bahamas",
+	"capital": "Nassau",
+	"region": "Americas",
+	"population": 368390,
+	"latlng": [24.25, -76],
+	"area": 13943,
+	"callingCodes": ["1242"]
+}, {
+	"name": "Bahrain",
+	"capital": "Manama",
+	"region": "Asia",
+	"population": 1359800,
+	"latlng": [26, 50.55],
+	"area": 765,
+	"callingCodes": ["973"]
+}, {
+	"name": "Bangladesh",
+	"capital": "Dhaka",
+	"region": "Asia",
+	"population": 158875000,
+	"latlng": [24, 90],
+	"area": 147570,
+	"callingCodes": ["880"]
+}, {
+	"name": "Barbados",
+	"capital": "Bridgetown",
+	"region": "Americas",
+	"population": 285000,
+	"latlng": [13.16666666, -59.53333333],
+	"area": 430,
+	"callingCodes": ["1246"]
+}, {
+	"name": "Belarus",
+	"capital": "Minsk",
+	"region": "Europe",
+	"population": 9485300,
+	"latlng": [53, 28],
+	"area": 207600,
+	"callingCodes": ["375"]
+}, {
+	"name": "Bermuda",
+	"capital": "Hamilton",
+	"region": "Americas",
+	"population": 64237,
+	"latlng": [32.33333333, -64.75],
+	"area": 54,
+	"callingCodes": ["1441"]
+}, {
+	"name": "Bhutan",
+	"capital": "Thimphu",
+	"region": "Asia",
+	"population": 763920,
+	"latlng": [27.5, 90.5],
+	"area": 38394,
+	"callingCodes": ["975"]
+}, {
+	"name": "Bolivia",
+	"capital": "Sucre",
+	"region": "Americas",
+	"population": 11410651,
+	"latlng": [-17, -65],
+	"area": 1098581,
+	"callingCodes": ["591"]
+}, {
+	"name": "Bonaire",
+	"capital": "Kralendijk",
+	"region": "Americas",
+	"population": 17408,
+	"latlng": [12.15, -68.266667],
+	"area": 294,
+	"callingCodes": ["5997"]
+}, {
+	"name": "Bosnia and Herzegovina",
+	"capital": "Sarajevo",
+	"region": "Europe",
+	"population": 3791622,
+	"latlng": [44, 18],
+	"area": 51209,
+	"callingCodes": ["387"]
+}, {
+	"name": "Botswana",
+	"capital": "Gaborone",
+	"region": "Africa",
+	"population": 2070984,
+	"latlng": [-22, 24],
+	"area": 582000,
+	"callingCodes": ["267"]
+}, {
+	"name": "Bouvet Island",
+	"capital": "sds",
+	"region": "sdsds",
+	"population": 0,
+	"latlng": [-54.43333333, 3.4],
+	"area": 49,
+	"callingCodes": ["55"]
+}, {
+	"name": "Brazil",
+	"capital": "Brasília",
+	"region": "Americas",
+	"population": 204772000,
+	"latlng": [-10, -55],
+	"area": 8515767,
+	"callingCodes": ["55"]
+}, {
+	"name": "British Indian Ocean Territory",
+	"capital": "Diego Garcia",
+	"region": "Africa",
+	"population": 3000,
+	"latlng": [-6, 71.5],
+	"area": 60,
+	"callingCodes": ["246"]
+}, {
+	"name": "British Virgin Islands",
+	"capital": "Road Town",
+	"region": "Americas",
+	"population": 28054,
+	"latlng": [18.431383, -64.62305],
+	"area": 151,
+	"callingCodes": ["1284"]
+}, {
+	"name": "Bulgaria",
+	"capital": "Sofia",
+	"region": "Europe",
+	"population": 7202198,
+	"latlng": [43, 25],
+	"area": 110879,
+	"callingCodes": ["359"]
+}, {
+	"name": "Burkina Faso",
+	"capital": "Ouagadougou",
+	"region": "Africa",
+	"population": 18450494,
+	"latlng": [13, -2],
+	"area": 272967,
+	"callingCodes": ["226"]
+}, {
+	"name": "Cambodia",
+	"capital": "Phnom Penh",
+	"region": "Asia",
+	"population": 15405157,
+	"latlng": [13, 105],
+	"area": 181035,
+	"callingCodes": ["855"]
+}, {
+	"name": "Cameroon",
+	"capital": "Yaoundé",
+	"region": "Africa",
+	"population": 23344000,
+	"latlng": [6, 12],
+	"area": 475442,
+	"callingCodes": ["237"]
+}, {
+	"name": "Canada",
+	"capital": "Ottawa",
+	"region": "Americas",
+	"population": 35749600,
+	"latlng": [60, -95],
+	"area": 9984670,
+	"callingCodes": ["1"]
+}, {
+	"name": "Cape Verde",
+	"capital": "Praia",
+	"region": "Africa",
+	"population": 524833,
+	"latlng": [16, -24],
+	"area": 4033,
+	"callingCodes": ["238"]
+}, {
+	"name": "Cayman Islands",
+	"capital": "George Town",
+	"region": "Americas",
+	"population": 58238,
+	"latlng": [19.5, -80.5],
+	"area": 264,
+	"callingCodes": ["1345"]
+}, {
+	"name": "Central African Republic",
+	"capital": "Bangui",
+	"region": "Africa",
+	"population": 4900000,
+	"latlng": [7, 21],
+	"area": 622984,
+	"callingCodes": ["236"]
+}, {
+	"name": "Chad",
+	"capital": "N\"Djamena",
+	"region": "Africa",
+	"population": 14037000,
+	"latlng": [15, 19],
+	"area": 1284000,
+	"callingCodes": ["235"]
+}, {
+	"name": "China",
+	"capital": "Beijing",
+	"region": "Asia",
+	"population": 1371590000,
+	"latlng": [35, 105],
+	"area": 9640011,
+	"callingCodes": ["86"]
+}, {
+	"name": "Christmas Island",
+	"capital": "Flying Fish Cove",
+	"region": "Oceania",
+	"population": 2072,
+	"latlng": [-10.5, 105.66666666],
+	"area": 135,
+	"callingCodes": ["61"]
+}, {
+	"name": "Cocos (Keeling) Islands",
+	"capital": "West Island",
+	"region": "Oceania",
+	"population": 550,
+	"latlng": [-12.5, 96.83333333],
+	"area": 14,
+	"callingCodes": ["61"]
+}, {
+	"name": "Colombia",
+	"capital": "Bogotá",
+	"region": "Americas",
+	"population": 48266600,
+	"latlng": [4, -72],
+	"area": 1141748,
+	"callingCodes": ["57"]
+}, {
+	"name": "Democratic Republic of the Congo",
+	"capital": "Kinshasa",
+	"region": "Africa",
+	"population": 77267000,
+	"latlng": [0, 25],
+	"area": 2344858,
+	"callingCodes": ["243"]
+}, {
+	"name": "Cook Islands",
+	"capital": "Avarua",
+	"region": "Oceania",
+	"population": 14974,
+	"latlng": [-21.23333333, -159.76666666],
+	"area": 236,
+	"callingCodes": ["682"]
+}, {
+	"name": "Costa Rica",
+	"capital": "San José",
+	"region": "Americas",
+	"population": 4773130,
+	"latlng": [10, -84],
+	"area": 51100,
+	"callingCodes": ["506"]
+}, {
+	"name": "Croatia",
+	"capital": "Zagreb",
+	"region": "Europe",
+	"population": 4246800,
+	"latlng": [45.16666666, 15.5],
+	"area": 56594,
+	"callingCodes": ["385"]
+}, {
+	"name": "Cuba",
+	"capital": "Havana",
+	"region": "Americas",
+	"population": 11238317,
+	"latlng": [21.5, -80],
+	"area": 109884,
+	"callingCodes": ["53"]
+}, {
+	"name": "Curaçao",
+	"capital": "Willemstad",
+	"region": "Americas",
+	"population": 154843,
+	"latlng": [12.116667, -68.933333],
+	"area": 444,
+	"callingCodes": ["5999"]
+}, {
+	"name": "Denmark",
+	"capital": "Copenhagen",
+	"region": "Europe",
+	"population": 5678348,
+	"latlng": [56, 10],
+	"area": 43094,
+	"callingCodes": ["45"]
+}, {
+	"name": "Dominica",
+	"capital": "Roseau",
+	"region": "Americas",
+	"population": 71293,
+	"latlng": [15.41666666, -61.33333333],
+	"area": 751,
+	"callingCodes": ["1767"]
+}, {
+	"name": "Dominican Republic",
+	"capital": "Santo Domingo",
+	"region": "Americas",
+	"population": 10528000,
+	"latlng": [19, -70.66666666],
+	"area": 48671,
+	"callingCodes": ["1809", "1829", "1849"]
+}, {
+	"name": "Ecuador",
+	"capital": "Quito",
+	"region": "Americas",
+	"population": 16027500,
+	"latlng": [-2, -77.5],
+	"area": 276841,
+	"callingCodes": ["593"]
+}, {
+	"name": "El Salvador",
+	"capital": "San Salvador",
+	"region": "Americas",
+	"population": 6401240,
+	"latlng": [13.83333333, -88.91666666],
+	"area": 21041,
+	"callingCodes": ["503"]
+}, {
+	"name": "Equatorial Guinea",
+	"capital": "Malabo",
+	"region": "Africa",
+	"population": 1430000,
+	"latlng": [2, 10],
+	"area": 28051,
+	"callingCodes": ["240"]
+}, {
+	"name": "Eritrea",
+	"capital": "Asmara",
+	"region": "Africa",
+	"population": 5228000,
+	"latlng": [15, 39],
+	"area": 117600,
+	"callingCodes": ["291"]
+}, {
+	"name": "Estonia",
+	"capital": "Tallinn",
+	"region": "Europe",
+	"population": 1313271,
+	"latlng": [59, 26],
+	"area": 45227,
+	"callingCodes": ["372"]
+}, {
+	"name": "Ethiopia",
+	"capital": "Addis Ababa",
+	"region": "Africa",
+	"population": 90076012,
+	"latlng": [8, 38],
+	"area": 1104300,
+	"callingCodes": ["251"]
+}, {
+	"name": "Falkland Islands",
+	"capital": "Stanley",
+	"region": "Americas",
+	"population": 3000,
+	"latlng": [-51.75, -59],
+	"area": 12173,
+	"callingCodes": ["500"]
+}, {
+	"name": "Faroe Islands",
+	"capital": "Tórshavn",
+	"region": "Europe",
+	"population": 48846,
+	"latlng": [62, -7],
+	"area": 1393,
+	"callingCodes": ["298"]
+}, {
+	"name": "Finland",
+	"capital": "Helsinki",
+	"region": "Europe",
+	"population": 5485215,
+	"latlng": [64, 26],
+	"area": 338424,
+	"callingCodes": ["358"]
+}, {
+	"name": "France",
+	"capital": "Paris",
+	"region": "Europe",
+	"population": 66186000,
+	"latlng": [46, 2],
+	"area": 640679,
+	"callingCodes": ["33"]
+}, {
+	"name": "French Guiana",
+	"capital": "Cayenne",
+	"region": "Americas",
+	"population": 239648,
+	"latlng": [4, -53],
+	"area": null,
+	"callingCodes": ["594"]
+}, {
+	"name": "French Polynesia",
+	"capital": "Papeetē",
+	"region": "Oceania",
+	"population": 268270,
+	"latlng": [-15, -140],
+	"area": 4167,
+	"callingCodes": ["689"]
+}, {
+	"name": "Gabon",
+	"capital": "Libreville",
+	"region": "Africa",
+	"population": 1725000,
+	"latlng": [-1, 11.75],
+	"area": 267668,
+	"callingCodes": ["241"]
+}, {
+	"name": "The Gambia",
+	"capital": "Banjul",
+	"region": "Africa",
+	"population": 1882450,
+	"latlng": [13.46666666, -16.56666666],
+	"area": 11295,
+	"callingCodes": ["220"]
+}, {
+	"name": "Georgia",
+	"capital": "Tbilisi",
+	"region": "Asia",
+	"population": 3729500,
+	"latlng": [42, 43.5],
+	"area": 69700,
+	"callingCodes": ["995"]
+}, {
+	"name": "Germany",
+	"capital": "Berlin",
+	"region": "Europe",
+	"population": 81083600,
+	"latlng": [51, 9],
+	"area": 357114,
+	"callingCodes": ["49"]
+}, {
+	"name": "Ghana",
+	"capital": "Accra",
+	"region": "Africa",
+	"population": 27043093,
+	"latlng": [8, -2],
+	"area": 238533,
+	"callingCodes": ["233"]
+}, {
+	"name": "Gibraltar",
+	"capital": "Gibraltar",
+	"region": "Europe",
+	"population": 32734,
+	"latlng": [36.13333333, -5.35],
+	"area": 6,
+	"callingCodes": ["350"]
+}, {
+	"name": "Greenland",
+	"capital": "Nuuk",
+	"region": "Americas",
+	"population": 56114,
+	"latlng": [72, -40],
+	"area": 2166086,
+	"callingCodes": ["299"]
+}, {
+	"name": "Grenada",
+	"capital": "St. George\"s",
+	"region": "Americas",
+	"population": 103328,
+	"latlng": [12.11666666, -61.66666666],
+	"area": 344,
+	"callingCodes": ["1473"]
+}, {
+	"name": "Guadeloupe",
+	"capital": "Basse-Terre",
+	"region": "Americas",
+	"population": 403750,
+	"latlng": [16.25, -61.583333],
+	"area": null,
+	"callingCodes": ["590"]
+}, {
+	"name": "Guam",
+	"capital": "Hagåtña",
+	"region": "Oceania",
+	"population": 159358,
+	"latlng": [13.46666666, 144.78333333],
+	"area": 549,
+	"callingCodes": ["1671"]
+}, {
+	"name": "Guatemala",
+	"capital": "Guatemala City",
+	"region": "Americas",
+	"population": 16176133,
+	"latlng": [15.5, -90.25],
+	"area": 108889,
+	"callingCodes": ["502"]
+}, {
+	"name": "Guinea",
+	"capital": "Conakry",
+	"region": "Africa",
+	"population": 10628972,
+	"latlng": [11, -10],
+	"area": 245857,
+	"callingCodes": ["224"]
+}, {
+	"name": "Guinea-Bissau",
+	"capital": "Bissau",
+	"region": "Africa",
+	"population": 1844000,
+	"latlng": [12, -15],
+	"area": 36125,
+	"callingCodes": ["245"]
+}, {
+	"name": "Guyana",
+	"capital": "Georgetown",
+	"region": "Americas",
+	"population": 746900,
+	"latlng": [5, -59],
+	"area": 214969,
+	"callingCodes": ["592"]
+}, {
+	"name": "Haiti",
+	"capital": "Port-au-Prince",
+	"region": "Americas",
+	"population": 10911819,
+	"latlng": [19, -72.41666666],
+	"area": 27750,
+	"callingCodes": ["509"]
+}, {
+	"name": "Honduras",
+	"capital": "Tegucigalpa",
+	"region": "Americas",
+	"population": 8725111,
+	"latlng": [15, -86.5],
+	"area": 112492,
+	"callingCodes": ["504"]
+}, {
+	"name": "Hungary",
+	"capital": "Budapest",
+	"region": "Europe",
+	"population": 9849000,
+	"latlng": [47, 20],
+	"area": 93028,
+	"callingCodes": ["36"]
+}, {
+	"name": "Iceland",
+	"capital": "Reykjavik",
+	"region": "Europe",
+	"population": 330610,
+	"latlng": [65, -18],
+	"area": 103000,
+	"callingCodes": ["354"]
+}, {
+	"name": "India",
+	"capital": "New Delhi",
+	"region": "Asia",
+	"population": 1275840000,
+	"latlng": [20, 77],
+	"area": 3287590,
+	"callingCodes": ["91"]
+}, {
+	"name": "Indonesia",
+	"capital": "Jakarta",
+	"region": "Asia",
+	"population": 255461700,
+	"latlng": [-5, 120],
+	"area": 1904569,
+	"callingCodes": ["62"]
+}, {
+	"name": "Ivory Coast",
+	"capital": "Yamoussoukro",
+	"region": "Africa",
+	"population": 22671331,
+	"latlng": [8, -5],
+	"area": 322463,
+	"callingCodes": ["225"]
+}, {
+	"name": "Iran",
+	"capital": "Tehran",
+	"region": "Asia",
+	"population": 78572500,
+	"latlng": [32, 53],
+	"area": 1648195,
+	"callingCodes": ["98"]
+}, {
+	"name": "Iraq",
+	"capital": "Baghdad",
+	"region": "Asia",
+	"population": 36004552,
+	"latlng": [33, 44],
+	"area": 438317,
+	"callingCodes": ["964"]
+}, {
+	"name": "Republic of Ireland",
+	"capital": "Dublin",
+	"region": "Europe",
+	"population": 6378000,
+	"latlng": [53, -8],
+	"area": 70273,
+	"callingCodes": ["353"]
+}, {
+	"name": "Isle of Man",
+	"capital": "Douglas",
+	"region": "Europe",
+	"population": 84497,
+	"latlng": [54.25, -4.5],
+	"area": 572,
+	"callingCodes": ["44"]
+}, {
+	"name": "Israel",
+	"capital": "Jerusalem",
+	"region": "Asia",
+	"population": 8371600,
+	"latlng": [31.5, 34.75],
+	"area": 20770,
+	"callingCodes": ["972"]
+}, {
+	"name": "Italy",
+	"capital": "Rome",
+	"region": "Europe",
+	"population": 60753794,
+	"latlng": [42.83333333, 12.83333333],
+	"area": 301336,
+	"callingCodes": ["39"]
+}, {
+	"name": "Jamaica",
+	"capital": "Kingston",
+	"region": "Americas",
+	"population": 2717991,
+	"latlng": [18.25, -77.5],
+	"area": 10991,
+	"callingCodes": ["1876"]
+}, {
+	"name": "Japan",
+	"capital": "Tokyo",
+	"region": "Asia",
+	"population": 126865000,
+	"latlng": [36, 138],
+	"area": 377930,
+	"callingCodes": ["81"]
+}, {
+	"name": "Jordan",
+	"capital": "Amman",
+	"region": "Asia",
+	"population": 6767600,
+	"latlng": [31, 36],
+	"area": 89342,
+	"callingCodes": ["962"]
+}, {
+	"name": "Kazakhstan",
+	"capital": "Astana",
+	"region": "Asia",
+	"population": 17541200,
+	"latlng": [48, 68],
+	"area": 2724900,
+	"callingCodes": ["76", "77"]
+}, {
+	"name": "Kenya",
+	"capital": "Nairobi",
+	"region": "Africa",
+	"population": 46050000,
+	"latlng": [1, 38],
+	"area": 580367,
+	"callingCodes": ["254"]
+}, {
+	"name": "Kiribati",
+	"capital": "South Tarawa",
+	"region": "Oceania",
+	"population": 106461,
+	"latlng": [1.41666666, 173],
+	"area": 811,
+	"callingCodes": ["686"]
+}, {
+	"name": "Kuwait",
+	"capital": "Kuwait City",
+	"region": "Asia",
+	"population": 3268431,
+	"latlng": [29.5, 45.75],
+	"area": 17818,
+	"callingCodes": ["965"]
+}, {
+	"name": "Kyrgyzstan",
+	"capital": "Bishkek",
+	"region": "Asia",
+	"population": 5944400,
+	"latlng": [41, 75],
+	"area": 199951,
+	"callingCodes": ["996"]
+}, {
+	"name": "Laos",
+	"capital": "Vientiane",
+	"region": "Asia",
+	"population": 6802000,
+	"latlng": [18, 105],
+	"area": 236800,
+	"callingCodes": ["856"]
+}, {
+	"name": "Latvia",
+	"capital": "Riga",
+	"region": "Europe",
+	"population": 1980700,
+	"latlng": [57, 25],
+	"area": 64559,
+	"callingCodes": ["371"]
+}, {
+	"name": "Lebanon",
+	"capital": "Beirut",
+	"region": "Asia",
+	"population": 4104000,
+	"latlng": [33.83333333, 35.83333333],
+	"area": 10452,
+	"callingCodes": ["961"]
+}, {
+	"name": "Liberia",
+	"capital": "Monrovia",
+	"region": "Africa",
+	"population": 4503000,
+	"latlng": [6.5, -9.5],
+	"area": 111369,
+	"callingCodes": ["231"]
+}, {
+	"name": "Libya",
+	"capital": "Tripoli",
+	"region": "Africa",
+	"population": 6278000,
+	"latlng": [25, 17],
+	"area": 1759540,
+	"callingCodes": ["218"]
+}, {
+	"name": "Lithuania",
+	"capital": "Vilnius",
+	"region": "Europe",
+	"population": 2900787,
+	"latlng": [56, 24],
+	"area": 65300,
+	"callingCodes": ["370"]
+}, {
+	"name": "Republic of Macedonia",
+	"capital": "Skopje",
+	"region": "Europe",
+	"population": 2058539,
+	"latlng": [41.83333333, 22],
+	"area": 25713,
+	"callingCodes": ["389"]
+}, {
+	"name": "Madagascar",
+	"capital": "Antananarivo",
+	"region": "Africa",
+	"population": 22434363,
+	"latlng": [-20, 47],
+	"area": 587041,
+	"callingCodes": ["261"]
+}, {
+	"name": "Malawi",
+	"capital": "Lilongwe",
+	"region": "Africa",
+	"population": 16310431,
+	"latlng": [-13.5, 34],
+	"area": 118484,
+	"callingCodes": ["265"]
+}, {
+	"name": "Malaysia",
+	"capital": "Kuala Lumpur",
+	"region": "Asia",
+	"population": 30678800,
+	"latlng": [2.5, 112.5],
+	"area": 330803,
+	"callingCodes": ["60"]
+}, {
+	"name": "Maldives",
+	"capital": "Malé",
+	"region": "Asia",
+	"population": 341256,
+	"latlng": [3.25, 73],
+	"area": 300,
+	"callingCodes": ["960"]
+}, {
+	"name": "Mali",
+	"capital": "Bamako",
+	"region": "Africa",
+	"population": 17600000,
+	"latlng": [17, -4],
+	"area": 1240192,
+	"callingCodes": ["223"]
+}, {
+	"name": "Malta",
+	"capital": "Valletta",
+	"region": "Europe",
+	"population": 445426,
+	"latlng": [35.83333333, 14.58333333],
+	"area": 316,
+	"callingCodes": ["356"]
+}, {
+	"name": "Marshall Islands",
+	"capital": "Majuro",
+	"region": "Oceania",
+	"population": 56086,
+	"latlng": [9, 168],
+	"area": 181,
+	"callingCodes": ["692"]
+}, {
+	"name": "Martinique",
+	"capital": "Fort-de-France",
+	"region": "Americas",
+	"population": 381326,
+	"latlng": [14.666667, -61],
+	"area": null,
+	"callingCodes": ["596"]
+}, {
+	"name": "Mauritania",
+	"capital": "Nouakchott",
+	"region": "Africa",
+	"population": 3631775,
+	"latlng": [20, -12],
+	"area": 1030700,
+	"callingCodes": ["222"]
+}, {
+	"name": "Mauritius",
+	"capital": "Port Louis",
+	"region": "Africa",
+	"population": 1261208,
+	"latlng": [-20.28333333, 57.55],
+	"area": 2040,
+	"callingCodes": ["230"]
+}, {
+	"name": "Mayotte",
+	"capital": "Mamoudzou",
+	"region": "Africa",
+	"population": 212645,
+	"latlng": [-12.83333333, 45.16666666],
+	"area": null,
+	"callingCodes": ["262"]
+}, {
+	"name": "Federated States of Micronesia",
+	"capital": "Palikir",
+	"region": "Oceania",
+	"population": 101351,
+	"latlng": [6.91666666, 158.25],
+	"area": 702,
+	"callingCodes": ["691"]
+}, {
+	"name": "Moldova",
+	"capital": "Chișinău",
+	"region": "Europe",
+	"population": 3555200,
+	"latlng": [47, 29],
+	"area": 33846,
+	"callingCodes": ["373"]
+}, {
+	"name": "Monaco",
+	"capital": "Monaco",
+	"region": "Europe",
+	"population": 37800,
+	"latlng": [43.73333333, 7.4],
+	"area": 2.02,
+	"callingCodes": ["377"]
+}, {
+	"name": "Mongolia",
+	"capital": "Ulan Bator",
+	"region": "Asia",
+	"population": 3031099,
+	"latlng": [46, 105],
+	"area": 1564110,
+	"callingCodes": ["976"]
+}, {
+	"name": "Montserrat",
+	"capital": "Plymouth",
+	"region": "Americas",
+	"population": 4922,
+	"latlng": [16.75, -62.2],
+	"area": 102,
+	"callingCodes": ["1664"]
+}, {
+	"name": "Mozambique",
+	"capital": "Maputo",
+	"region": "Africa",
+	"population": 25727911,
+	"latlng": [-18.25, 35],
+	"area": 801590,
+	"callingCodes": ["258"]
+}, {
+	"name": "Myanmar",
+	"capital": "Naypyidaw",
+	"region": "Asia",
+	"population": 53897000,
+	"latlng": [22, 98],
+	"area": 676578,
+	"callingCodes": ["95"]
+}, {
+	"name": "Namibia",
+	"capital": "Windhoek",
+	"region": "Africa",
+	"population": 2280700,
+	"latlng": [-22, 17],
+	"area": 825615,
+	"callingCodes": ["264"]
+}, {
+	"name": "Nepal",
+	"capital": "Kathmandu",
+	"region": "Asia",
+	"population": 28037904,
+	"latlng": [28, 84],
+	"area": 147181,
+	"callingCodes": ["977"]
+}, {
+	"name": "Netherlands",
+	"capital": "Amsterdam",
+	"region": "Europe",
+	"population": 16916000,
+	"latlng": [52.5, 5.75],
+	"area": 41850,
+	"callingCodes": ["31"]
+}, {
+	"name": "New Caledonia",
+	"capital": "Nouméa",
+	"region": "Oceania",
+	"population": 268767,
+	"latlng": [-21.5, 165.5],
+	"area": 18575,
+	"callingCodes": ["687"]
+}, {
+	"name": "New Zealand",
+	"capital": "Wellington",
+	"region": "Oceania",
+	"population": 4609440,
+	"latlng": [-41, 174],
+	"area": 270467,
+	"callingCodes": ["64"]
+}, {
+	"name": "Nicaragua",
+	"capital": "Managua",
+	"region": "Americas",
+	"population": 6198154,
+	"latlng": [13, -85],
+	"area": 130373,
+	"callingCodes": ["505"]
+}, {
+	"name": "Nigeria",
+	"capital": "Abuja",
+	"region": "Africa",
+	"population": 182202000,
+	"latlng": [10, 8],
+	"area": 923768,
+	"callingCodes": ["234"]
+}, {
+	"name": "Norfolk Island",
+	"capital": "Kingston",
+	"region": "Oceania",
+	"population": 2302,
+	"latlng": [-29.03333333, 167.95],
+	"area": 36,
+	"callingCodes": ["672"]
+}, {
+	"name": "North Korea",
+	"capital": "Pyongyang",
+	"region": "Asia",
+	"population": 25155000,
+	"latlng": [40, 127],
+	"area": 120538,
+	"callingCodes": ["850"]
+}, {
+	"name": "Northern Mariana Islands",
+	"capital": "Saipan",
+	"region": "Oceania",
+	"population": 53883,
+	"latlng": [15.2, 145.75],
+	"area": 464,
+	"callingCodes": ["1670"]
+}, {
+	"name": "Norway",
+	"capital": "Oslo",
+	"region": "Europe",
+	"population": 5176998,
+	"latlng": [62, 10],
+	"area": 323802,
+	"callingCodes": ["47"]
+}, {
+	"name": "Oman",
+	"capital": "Muscat",
+	"region": "Asia",
+	"population": 4185440,
+	"latlng": [21, 57],
+	"area": 309500,
+	"callingCodes": ["968"]
+}, {
+	"name": "Pakistan",
+	"capital": "Islamabad",
+	"region": "Asia",
+	"population": 190668000,
+	"latlng": [30, 70],
+	"area": 881912,
+	"callingCodes": ["92"]
+}, {
+	"name": "Palau",
+	"capital": "Ngerulmud",
+	"region": "Oceania",
+	"population": 20901,
+	"latlng": [7.5, 134.5],
+	"area": 459,
+	"callingCodes": ["680"]
+}, {
+	"name": "Palestine",
+	"capital": "Ramallah",
+	"region": "Asia",
+	"population": 4682467,
+	"latlng": [31.9, 35.2],
+	"area": null,
+	"callingCodes": ["970"]
+}, {
+	"name": "Panama",
+	"capital": "Panama City",
+	"region": "Americas",
+	"population": 3764166,
+	"latlng": [9, -80],
+	"area": 75417,
+	"callingCodes": ["507"]
+}, {
+	"name": "Papua New Guinea",
+	"capital": "Port Moresby",
+	"region": "Oceania",
+	"population": 7398500,
+	"latlng": [-6, 147],
+	"area": 462840,
+	"callingCodes": ["675"]
+}, {
+	"name": "Paraguay",
+	"capital": "Asunción",
+	"region": "Americas",
+	"population": 7003406,
+	"latlng": [-23, -58],
+	"area": 406752,
+	"callingCodes": ["595"]
+}, {
+	"name": "Pitcairn Islands",
+	"capital": "Adamstown",
+	"region": "Oceania",
+	"population": 56,
+	"latlng": [-25.06666666, -130.1],
+	"area": 47,
+	"callingCodes": ["64"]
+}, {
+	"name": "Poland",
+	"capital": "Warsaw",
+	"region": "Europe",
+	"population": 38484000,
+	"latlng": [52, 20],
+	"area": 312679,
+	"callingCodes": ["48"]
+}, {
+	"name": "Portugal",
+	"capital": "Lisbon",
+	"region": "Europe",
+	"population": 10374822,
+	"latlng": [39.5, -8],
+	"area": 92090,
+	"callingCodes": ["351"]
+}, {
+	"name": "Qatar",
+	"capital": "Doha",
+	"region": "Asia",
+	"population": 2120129,
+	"latlng": [25.5, 51.25],
+	"area": 11586,
+	"callingCodes": ["974"]
+}, {
+	"name": "Russia",
+	"capital": "Moscow",
+	"region": "Europe",
+	"population": 146556330,
+	"latlng": [60, 100],
+	"area": 17124442,
+	"callingCodes": ["7"]
+}, {
+	"name": "Rwanda",
+	"capital": "Kigali",
+	"region": "Africa",
+	"population": 11262564,
+	"latlng": [-2, 30],
+	"area": 26338,
+	"callingCodes": ["250"]
+}, {
+	"name": "Saint Barthélemy",
+	"capital": "Gustavia",
+	"region": "Americas",
+	"population": 9269,
+	"latlng": [18.5, -63.41666666],
+	"area": 21,
+	"callingCodes": ["590"]
+}, {
+	"name": "Saint Helena",
+	"capital": "Jamestown",
+	"region": "Africa",
+	"population": 4255,
+	"latlng": [-15.95, -5.7],
+	"area": null,
+	"callingCodes": ["290"]
+}, {
+	"name": "Saint Kitts and Nevis",
+	"capital": "Basseterre",
+	"region": "Americas",
+	"population": 56000,
+	"latlng": [17.33333333, -62.75],
+	"area": 261,
+	"callingCodes": ["1869"]
+}, {
+	"name": "Saint Lucia",
+	"capital": "Castries",
+	"region": "Americas",
+	"population": 185000,
+	"latlng": [13.88333333, -60.96666666],
+	"area": 616,
+	"callingCodes": ["1758"]
+}, {
+	"name": "Saint Martin",
+	"capital": "Marigot",
+	"region": "Americas",
+	"population": 36979,
+	"latlng": [18.08333333, -63.95],
+	"area": 53,
+	"callingCodes": ["590"]
+}, {
+	"name": "Saint Pierre and Miquelon",
+	"capital": "Saint-Pierre",
+	"region": "Americas",
+	"population": 6069,
+	"latlng": [46.83333333, -56.33333333],
+	"area": 242,
+	"callingCodes": ["508"]
+}, {
+	"name": "Saint Vincent and the Grenadines",
+	"capital": "Kingstown",
+	"region": "Americas",
+	"population": 109991,
+	"latlng": [13.25, -61.2],
+	"area": 389,
+	"callingCodes": ["1784"]
+}, {
+	"name": "Samoa",
+	"capital": "Apia",
+	"region": "Oceania",
+	"population": 187820,
+	"latlng": [-13.58333333, -172.33333333],
+	"area": 2842,
+	"callingCodes": ["685"]
+}, {
+	"name": "San Marino",
+	"capital": "City of San Marino",
+	"region": "Europe",
+	"population": 32831,
+	"latlng": [43.76666666, 12.41666666],
+	"area": 61,
+	"callingCodes": ["378"]
+}, {
+	"name": "São Tomé and Príncipe",
+	"capital": "São Tomé",
+	"region": "Africa",
+	"population": 187356,
+	"latlng": [1, 7],
+	"area": 964,
+	"callingCodes": ["239"]
+}, {
+	"name": "Saudi Arabia",
+	"capital": "Riyadh",
+	"region": "Asia",
+	"population": 31521418,
+	"latlng": [25, 45],
+	"area": 2149690,
+	"callingCodes": ["966"]
+}, {
+	"name": "Senegal",
+	"capital": "Dakar",
+	"region": "Africa",
+	"population": 13508715,
+	"latlng": [14, -14],
+	"area": 196722,
+	"callingCodes": ["221"]
+}, {
+	"name": "Serbia",
+	"capital": "Belgrade",
+	"region": "Europe",
+	"population": 7114393,
+	"latlng": [44, 21],
+	"area": 88361,
+	"callingCodes": ["381"]
+}, {
+	"name": "Sierra Leone",
+	"capital": "Freetown",
+	"region": "Africa",
+	"population": 6453000,
+	"latlng": [8.5, -11.5],
+	"area": 71740,
+	"callingCodes": ["232"]
+}, {
+	"name": "Singapore",
+	"capital": "Singapore",
+	"region": "Asia",
+	"population": 5469700,
+	"latlng": [1.36666666, 103.8],
+	"area": 710,
+	"callingCodes": ["65"]
+}, {
+	"name": "Sint Maarten",
+	"capital": "Philipsburg",
+	"region": "Americas",
+	"population": 37429,
+	"latlng": [18.033333, -63.05],
+	"area": 34,
+	"callingCodes": ["1721"]
+}, {
+	"name": "Slovakia",
+	"capital": "Bratislava",
+	"region": "Europe",
+	"population": 5421349,
+	"latlng": [48.66666666, 19.5],
+	"area": 49037,
+	"callingCodes": ["421"]
+}, {
+	"name": "Slovenia",
+	"capital": "Ljubljana",
+	"region": "Europe",
+	"population": 2067683,
+	"latlng": [46.11666666, 14.81666666],
+	"area": 20273,
+	"callingCodes": ["386"]
+}, {
+	"name": "Solomon Islands",
+	"capital": "Honiara",
+	"region": "Oceania",
+	"population": 581344,
+	"latlng": [-8, 159],
+	"area": 28896,
+	"callingCodes": ["677"]
+}, {
+	"name": "Somalia",
+	"capital": "Mogadishu",
+	"region": "Africa",
+	"population": 10787000,
+	"latlng": [10, 49],
+	"area": 637657,
+	"callingCodes": ["252"]
+}, {
+	"name": "South Africa",
+	"capital": "Pretoria",
+	"region": "Africa",
+	"population": 54956900,
+	"latlng": [-29, 24],
+	"area": 1221037,
+	"callingCodes": ["27"]
+}, {
+	"name": "South Georgia",
+	"capital": "King Edward Point",
+	"region": "Americas",
+	"population": 30,
+	"latlng": [-54.5, -37],
+	"area": null,
+	"callingCodes": ["500"]
+}, {
+	"name": "South Korea",
+	"capital": "Seoul",
+	"region": "Asia",
+	"population": 51448183,
+	"latlng": [37, 127.5],
+	"area": 100210,
+	"callingCodes": ["82"]
+}, {
+	"name": "South Sudan",
+	"capital": "Juba",
+	"region": "Africa",
+	"population": 11892934,
+	"latlng": [7, 30],
+	"area": 619745,
+	"callingCodes": ["211"]
+}, {
+	"name": "Spain",
+	"capital": "Madrid",
+	"region": "Europe",
+	"population": 46439864,
+	"latlng": [40, -4],
+	"area": 505992,
+	"callingCodes": ["34"]
+}, {
+	"name": "Sri Lanka",
+	"capital": "Colombo",
+	"region": "Asia",
+	"population": 20675000,
+	"latlng": [7, 81],
+	"area": 65610,
+	"callingCodes": ["94"]
+}, {
+	"name": "Sudan",
+	"capital": "Khartoum",
+	"region": "Africa",
+	"population": 38435252,
+	"latlng": [15, 30],
+	"area": 1886068,
+	"callingCodes": ["249"]
+}, {
+	"name": "Svalbard and Jan Mayen",
+	"capital": "Longyearbyen",
+	"region": "Europe",
+	"population": 2562,
+	"latlng": [78, 20],
+	"area": null,
+	"callingCodes": ["4779"]
+}, {
+	"name": "Swaziland",
+	"capital": "Lobamba",
+	"region": "Africa",
+	"population": 1119375,
+	"latlng": [-26.5, 31.5],
+	"area": 17364,
+	"callingCodes": ["268"]
+}, {
+	"name": "Switzerland",
+	"capital": "Bern",
+	"region": "Europe",
+	"population": 8256000,
+	"latlng": [47, 8],
+	"area": 41284,
+	"callingCodes": ["41"]
+}, {
+	"name": "Syria",
+	"capital": "Damascus",
+	"region": "Asia",
+	"population": 23339517,
+	"latlng": [35, 38],
+	"area": 185180,
+	"callingCodes": ["963"]
+}, {
+	"name": "Taiwan",
+	"capital": "Taipei",
+	"region": "Asia",
+	"population": 23461708,
+	"latlng": [23.5, 121],
+	"area": 36193,
+	"callingCodes": ["886"]
+}, {
+	"name": "Tajikistan",
+	"capital": "Dushanbe",
+	"region": "Asia",
+	"population": 8354000,
+	"latlng": [39, 71],
+	"area": 143100,
+	"callingCodes": ["992"]
+}, {
+	"name": "Tanzania",
+	"capital": "Dodoma",
+	"region": "Africa",
+	"population": 53470000,
+	"latlng": [-6, 35],
+	"area": 945087,
+	"callingCodes": ["255"]
+}, {
+	"name": "Thailand",
+	"capital": "Bangkok",
+	"region": "Asia",
+	"population": 65104000,
+	"latlng": [15, 100],
+	"area": 513120,
+	"callingCodes": ["66"]
+}, {
+	"name": "East Timor",
+	"capital": "Dili",
+	"region": "Asia",
+	"population": 1212107,
+	"latlng": [-8.83333333, 125.91666666],
+	"area": 14874,
+	"callingCodes": ["670"]
+}, {
+	"name": "Tokelau",
+	"capital": "Fakaofo",
+	"region": "Oceania",
+	"population": 1411,
+	"latlng": [-9, -172],
+	"area": 12,
+	"callingCodes": ["690"]
+}, {
+	"name": "Tonga",
+	"capital": "Nuku\"alofa",
+	"region": "Oceania",
+	"population": 103252,
+	"latlng": [-20, -175],
+	"area": 747,
+	"callingCodes": ["676"]
+}, {
+	"name": "Trinidad and Tobago",
+	"capital": "Port of Spain",
+	"region": "Americas",
+	"population": 1340557,
+	"latlng": [11, -61],
+	"area": 5130,
+	"callingCodes": ["1868"]
+}, {
+	"name": "Tunisia",
+	"capital": "Tunis",
+	"region": "Africa",
+	"population": 10982754,
+	"latlng": [34, 9],
+	"area": 163610,
+	"callingCodes": ["216"]
+}, {
+	"name": "Turkmenistan",
+	"capital": "Ashgabat",
+	"region": "Asia",
+	"population": 4751120,
+	"latlng": [40, 60],
+	"area": 488100,
+	"callingCodes": ["993"]
+}, {
+	"name": "Turks and Caicos Islands",
+	"capital": "Cockburn Town",
+	"region": "Americas",
+	"population": 31458,
+	"latlng": [21.75, -71.58333333],
+	"area": 948,
+	"callingCodes": ["1649"]
+}, {
+	"name": "Tuvalu",
+	"capital": "Funafuti",
+	"region": "Oceania",
+	"population": 10640,
+	"latlng": [-8, 178],
+	"area": 26,
+	"callingCodes": ["688"]
+}, {
+	"name": "Uganda",
+	"capital": "Kampala",
+	"region": "Africa",
+	"population": 34856813,
+	"latlng": [1, 32],
+	"area": 241550,
+	"callingCodes": ["256"]
+}, {
+	"name": "Ukraine",
+	"capital": "Kiev",
+	"region": "Europe",
+	"population": 42836922,
+	"latlng": [49, 32],
+	"area": 603700,
+	"callingCodes": ["380"]
+}, {
+	"name": "United Arab Emirates",
+	"capital": "Abu Dhabi",
+	"region": "Asia",
+	"population": 9157000,
+	"latlng": [24, 54],
+	"area": 83600,
+	"callingCodes": ["971"]
+}, {
+	"name": "United States",
+	"capital": "Washington D.C.",
+	"region": "Americas",
+	"population": 321645000,
+	"latlng": [38, -97],
+	"area": 9629091,
+	"callingCodes": ["1"]
+}, {
+	"name": "Uruguay",
+	"capital": "Montevideo",
+	"region": "Americas",
+	"population": 3415866,
+	"latlng": [-33, -56],
+	"area": 181034,
+	"callingCodes": ["598"]
+}, {
+	"name": "Uzbekistan",
+	"capital": "Tashkent",
+	"region": "Asia",
+	"population": 31022500,
+	"latlng": [41, 64],
+	"area": 447400,
+	"callingCodes": ["998"]
+}, {
+	"name": "Vanuatu",
+	"capital": "Port Vila",
+	"region": "Oceania",
+	"population": 264652,
+	"latlng": [-16, 167],
+	"area": 12189,
+	"callingCodes": ["678"]
+}, {
+	"name": "Venezuela",
+	"capital": "Caracas",
+	"region": "Americas",
+	"population": 30620404,
+	"latlng": [8, -66],
+	"area": 916445,
+	"callingCodes": ["58"]
+}, {
+	"name": "Vietnam",
+	"capital": "Hanoi",
+	"region": "Asia",
+	"population": 91812000,
+	"latlng": [16.16666666, 107.83333333],
+	"area": 331212,
+	"callingCodes": ["84"]
+}, {
+	"name": "Wallis and Futuna",
+	"capital": "Mata-Utu",
+	"region": "Oceania",
+	"population": 13135,
+	"latlng": [-13.3, -176.2],
+	"area": 142,
+	"callingCodes": ["681"]
+}, {
+	"name": "Western Sahara",
+	"capital": "El Aaiún",
+	"region": "Africa",
+	"population": 510713,
+	"latlng": [24.5, -13],
+	"area": 266000,
+	"callingCodes": ["212"]
+}, {
+	"name": "Zambia",
+	"capital": "Lusaka",
+	"region": "Africa",
+	"population": 15473905,
+	"latlng": [-15, 30],
+	"area": 752612,
+	"callingCodes": ["260"]
+}, {
+	"name": "Belgium",
+	"capital": "Brussels",
+	"region": "Europe",
+	"population": 11248330,
+	"latlng": [50.83333333, 4],
+	"area": 30528,
+	"callingCodes": ["32"]
+}, {
+	"name": "Brunei",
+	"capital": "Bandar Seri Begawan",
+	"region": "Asia",
+	"population": 393372,
+	"latlng": [4.5, 114.66666666],
+	"area": 5765,
+	"callingCodes": ["673"]
+}, {
+	"name": "Burundi",
+	"capital": "Bujumbura",
+	"region": "Africa",
+	"population": 9823827,
+	"latlng": [-3.5, 30],
+	"area": 27834,
+	"callingCodes": ["257"]
+}, {
+	"name": "Chile",
+	"capital": "Santiago",
+	"region": "Americas",
+	"population": 18006407,
+	"latlng": [-30, -71],
+	"area": 756102,
+	"callingCodes": ["56"]
+}, {
+	"name": "Comoros",
+	"capital": "Moroni",
+	"region": "Africa",
+	"population": 784745,
+	"latlng": [-12.16666666, 44.25],
+	"area": 1862,
+	"callingCodes": ["269"]
+}, {
+	"name": "Republic of the Congo",
+	"capital": "Brazzaville",
+	"region": "Africa",
+	"population": 4620000,
+	"latlng": [-1, 15],
+	"area": 342000,
+	"callingCodes": ["242"]
+}, {
+	"name": "Czech Republic",
+	"capital": "Prague",
+	"region": "Europe",
+	"population": 10537818,
+	"latlng": [49.75, 15.5],
+	"area": 78865,
+	"callingCodes": ["420"]
+}, {
+	"name": "Djibouti",
+	"capital": "Djibouti",
+	"region": "Africa",
+	"population": 888000,
+	"latlng": [11.5, 43],
+	"area": 23200,
+	"callingCodes": ["253"]
+}, {
+	"name": "Egypt",
+	"capital": "Cairo",
+	"region": "Africa",
+	"population": 89335600,
+	"latlng": [27, 30],
+	"area": 1002450,
+	"callingCodes": ["20"]
+}, {
+	"name": "Fiji",
+	"capital": "Suva",
+	"region": "Oceania",
+	"population": 859178,
+	"latlng": [-18, 175],
+	"area": 18272,
+	"callingCodes": ["679"]
+}, {
+	"name": "Greece",
+	"capital": "Athens",
+	"region": "Europe",
+	"population": 10846979,
+	"latlng": [39, 22],
+	"area": 131990,
+	"callingCodes": ["30"]
+}, {
+	"name": "Guernsey",
+	"capital": "St. Peter Port",
+	"region": "Europe",
+	"population": 65150,
+	"latlng": [49.46666666, -2.58333333],
+	"area": 78,
+	"callingCodes": ["44"]
+}, {
+	"name": "Jersey",
+	"capital": "Saint Helier",
+	"region": "Europe",
+	"population": 99000,
+	"latlng": [49.25, -2.16666666],
+	"area": 116,
+	"callingCodes": ["44"]
+}, {
+	"name": "Lesotho",
+	"capital": "Maseru",
+	"region": "Africa",
+	"population": 2135000,
+	"latlng": [-29.5, 28.5],
+	"area": 30355,
+	"callingCodes": ["266"]
+}, {
+	"name": "Liechtenstein",
+	"capital": "Vaduz",
+	"region": "Europe",
+	"population": 37370,
+	"latlng": [47.26666666, 9.53333333],
+	"area": 160,
+	"callingCodes": ["423"]
+}, {
+	"name": "Luxembourg",
+	"capital": "Luxembourg",
+	"region": "Europe",
+	"population": 562958,
+	"latlng": [49.75, 6.16666666],
+	"area": 2586,
+	"callingCodes": ["352"]
+}, {
+	"name": "Mexico",
+	"capital": "Mexico City",
+	"region": "Americas",
+	"population": 121740000,
+	"latlng": [23, -102],
+	"area": 1964375,
+	"callingCodes": ["52"]
+}, {
+	"name": "Montenegro",
+	"capital": "Podgorica",
+	"region": "Europe",
+	"population": 621207,
+	"latlng": [42.5, 19.3],
+	"area": 13812,
+	"callingCodes": ["382"]
+}, {
+	"name": "Morocco",
+	"capital": "Rabat",
+	"region": "Africa",
+	"population": 33337529,
+	"latlng": [32, -5],
+	"area": 446550,
+	"callingCodes": ["212"]
+}, {
+	"name": "Niger",
+	"capital": "Niamey",
+	"region": "Africa",
+	"population": 19899000,
+	"latlng": [16, 8],
+	"area": 1267000,
+	"callingCodes": ["227"]
+}, {
+	"name": "Peru",
+	"capital": "Lima",
+	"region": "Americas",
+	"population": 31151643,
+	"latlng": [-10, -76],
+	"area": 1285216,
+	"callingCodes": ["51"]
+}, {
+	"name": "Philippines",
+	"capital": "Manila",
+	"region": "Asia",
+	"population": 101920000,
+	"latlng": [13, 122],
+	"area": 342353,
+	"callingCodes": ["63"]
+}, {
+	"name": "Puerto Rico",
+	"capital": "San Juan",
+	"region": "Americas",
+	"population": 3548397,
+	"latlng": [18.25, -66.5],
+	"area": 8870,
+	"callingCodes": ["1787", "1939"]
+}, {
+	"name": "Sweden",
+	"capital": "Stockholm",
+	"region": "Europe",
+	"population": 9793172,
+	"latlng": [62, 15],
+	"area": 450295,
+	"callingCodes": ["46"]
+}, {
+	"name": "Togo",
+	"capital": "Lomé",
+	"region": "Africa",
+	"population": 7305000,
+	"latlng": [8, 1.16666666],
+	"area": 56785,
+	"callingCodes": ["228"]
+}, {
+	"name": "United Kingdom",
+	"capital": "London",
+	"region": "Europe",
+	"population": 64800000,
+	"latlng": [54, -2],
+	"area": 242900,
+	"callingCodes": ["44"]
+}, {
+	"name": "Yemen",
+	"capital": "Sanaa",
+	"region": "Asia",
+	"population": 25956000,
+	"latlng": [15, 48],
+	"area": 527968,
+	"callingCodes": ["967"]
+}]

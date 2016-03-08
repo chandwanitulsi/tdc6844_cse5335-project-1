@@ -1,0 +1,54 @@
+<!DOCTYPE>
+
+<html>
+<head>
+<title>Countries</title>
+<script src="javascript/angular.min.js"></script>
+<script src="controller/controller.js"></script>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+</head>
+<body>
+<div class = "page-header" style="margin-top:5px;">
+<header>
+<img src="images/countryimage.jpg"/> 
+</header>
+<h1 style="font-weight:800;align-self:center;">Country Details</h1>
+</div>
+	<br/><br/>
+	<div ng-app= "myApp" class= "container" ng-controller="appcontroller">
+			<div>
+			<label class="col-sm-2 control-label" style="padding-left:0px;">Select Region</label>
+			<select  class = "border-radius form-control" ng-model="selectedRegion" ng-change="showSelectValue(selectedRegion)" ng-options="x for x in regions">
+			</select>
+			<br/>
+			<br/>
+			<button ng-click="myFunction()" >Get Countries</button>
+			</div>
+			
+			<br><br/><br/>
+			
+				<table class="table table-bordered table-striped" ng-show="CountryDatajson">
+				<th>Country</th>
+				<th>Capital</th>
+				<th>Population</th>
+				<th>Region</th>
+				<th>Area</th>
+				<th>Position</th>
+				<tr ng-repeat="x in CountryDatajson">
+				<td>{{x.name}}</td>
+				<td>{{x.capital}}</td>
+				<td>{{x.population}}</td>
+				<td>{{x.region}}</td>
+				<td>{{x.area}}</td>
+				<td>{{x.latlng}}</td></tr>
+				</table>
+			
+			
+	</div>
+
+</body>
+</html>

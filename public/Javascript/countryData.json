@@ -1,0 +1,93 @@
+﻿
+[
+    {
+        "name": "Afghanistan",
+        "capital": "Kabul",
+        
+        "latlng": [
+            33,
+            65
+        ]
+        
+    },
+    {
+        "name": "Åland Islands",
+        "capital": "Mariehamn",
+        "latlng": [
+            60.116667,
+            19.9
+        ]
+        
+    },
+    {
+        "name": "Albania",
+        "capital": "Tirana",
+        "latlng": [
+            41,
+            20
+        ]
+        
+    },
+    {
+        "name": "Algeria",
+        "capital": "Algiers",
+        "latlng": [
+            28,
+            3
+        ]
+        
+    },
+    {
+        "name": "American Samoa",
+        "capital": "Pago Pago",
+        "latlng": [
+            -14.33333333,
+            -170
+        ]
+        
+    },
+    {
+        "name": "Andorra",
+        "capital": "Andorra la Vella",
+        "latlng": [
+            42.5,
+            1.5
+        ]
+        
+    },
+    {
+        "name": "Angola",
+        "capital": "Luanda",
+        "latlng": [
+            -12.5,
+            18.5
+        ]
+        
+    },
+    {
+        "name": "Anguilla",
+        "capital": "The Valley",
+        "latlng": [
+            18.25,
+            -63.16666666
+        ]
+        
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "capital": "Saint John's",
+        "latlng": [
+            17.05,
+            -61.8
+        ]
+        
+    },
+    {
+        "name": "Argentina",
+        "capital": "Buenos Aires",
+        "latlng": [
+            -34,
+            -64
+        ]
+    }
+]    
